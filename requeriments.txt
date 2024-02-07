@@ -1,0 +1,5 @@
+
+pip install embedchain
+pip install sentence-transformers
+pip install --upgrade tokenizers
+pip install --upgrade transformers
